@@ -9,5 +9,6 @@ Se sim, pode estacionar na vaga especial.
 Se não, não pode estacionar na vaga especial.
 Fim.
 ```
-![FluxogramaExercicioEstacionamento1](https://user-images.githubusercontent.com/103974210/168107358-dba34347-532f-4dfe-9681-293d39a125c2.png)
+![FluxogramaEstacionamento](https://user-images.githubusercontent.com/103974210/168127295-54908ccf-59af-43f5-a65c-af3e50069ac6.png)
+
 
